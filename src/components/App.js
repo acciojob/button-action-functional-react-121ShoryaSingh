@@ -13,7 +13,7 @@ function App() {
       >
         click
       </button>
-      <p>
+      <p id="para">
         {click &&
           "Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy."}
       </p>
